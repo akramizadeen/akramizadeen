@@ -4,7 +4,7 @@
   <li>👀 I’m interested in developing web and mobile apps</li>
   <li>🌱 I’m currently learning Angular and Advanced React JS</li>
   <li>💞️ I’m looking to collaborate on web and mobile app projects</li>
-  <li>📫 How to reach me email: akramizadeen99@gmail.com mobile/WhatsApp: +94770518378</li>
+  <li>📫 How to reach me email: <a href="mailto:akramizadeen99@gmail.com" target="_blank">akramizadeen99@gmail.com</a> mobile/WhatsApp: <a href="https://wa.me/+94770518378">+94 77 051 8378</a></li>
 </ul>
 
 <h2>Expertise</h2>
